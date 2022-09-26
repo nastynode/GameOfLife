@@ -5,9 +5,9 @@ For more info on the game, it's creator, and the rules, check out https://en.wik
 ## Compile
 Makefile uses g++ cpp compiler. Also requires ncurses package. You can try running the bash setup script to check for required resources.
 To compile, run
-    make
-then
-    ./life
+    ```make```
+in your command line, then
+    ```./life```
 If you want to use a different compiler, make sure you link the dependencies (especially ncurses).
 
 ## How to play
